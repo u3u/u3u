@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 [![u3u's github stats](https://github-readme-stats.vercel.app/api?username=u3u&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u3u&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Moe Counter
+
+![u3u](https://count.getloli.com/get/@u3u?theme=rule34)
