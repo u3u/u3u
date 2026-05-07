@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=u3u&show_icons=true&count_private=true&include_all_commits=true&theme=dark"
@@ -41,7 +42,10 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u3u&layout=compact" />
 </picture>
+-->
 
+<!--
 ### Moe Counter
 
 ![u3u](https://count.getloli.com/get/@u3u?theme=rule34)
+-->
